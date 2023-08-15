@@ -1,0 +1,38 @@
+[
+    {
+        "Number": "120",
+        "Name": "Jurists, Specialization Unknown",
+        "Description (tasks and duties)": "Workers in this unit group may perform any, but not all, legal functions described in unit groups 1-21 to 1-29.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=120&keywords_qt=lstrict"
+    },
+    {
+        "Number": "121",
+        "Name": "Lawyers",
+        "Description (tasks and duties)": "Workers in this unit group plead cases or conduct prosecutions in courts of justice. Their functions include: examining the circumstances of disputes or reported crimes to ascertain the facts; determining the applicable law; and preparing pleadings or cases for prosecution and conducting them in court.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=121&keywords_qt=lstrict"
+    },
+    {
+        "Number": "122",
+        "Name": "Judges",
+        "Description (tasks and duties)": "Workers in this unit group preside over judicial proceedings and pronounce judgements in courts of justice. Their functions include: ruling on procedure in court; weighing the evidence presented; determining the rights and obligations of the parties involved; instructing juries on points of law; pronouncing judgements.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=122&keywords_qt=lstrict"
+    },
+    {
+        "Number": "123",
+        "Name": "Notaries",
+        "Description (tasks and duties)": "Workers in this unit group process legal documents. Their functions include: drawing up, recording and certifying instruments and papers of legal importance.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=123&keywords_qt=lstrict"
+    },
+    {
+        "Number": "124",
+        "Name": "Solicitors",
+        "Description (tasks and duties)": "Workers in this unit group advise clients in a range of personal, business and administrative matters of law. Their functions include: drawing up contracts, wills, settling properties, etc.. hey may also instruct barristers, but not appear as advocates except in certain lower courts.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=124&keywords_qt=lstrict"
+    },
+    {
+        "Number": "129",
+        "Name": "Jurists Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform legal functions not elsewhere classified. Their functions include: drawing up and processing of legal contracts in specific and limited areas, such as property conveyancing; assessment and drafting of government legislation; studying jurisprudence, writing comparative legal analyses and compiling law codes; performing legal research related to the foregoing functions; performing lay tasks in courts of law.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=129&keywords_qt=lstrict"
+    }
+]

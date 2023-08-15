@@ -1,0 +1,38 @@
+[
+    {
+        "Number": "210",
+        "Name": "Managers, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group perform managerial functions as described in minor group 2-1. Their specialisation is unknown.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=210&keywords_qt=lstrict"
+    },
+    {
+        "Number": "211",
+        "Name": "General Managers",
+        "Description (tasks and duties)": "Workers in this unit group plan, direct, control and co-ordinate, on proprietors' or on own behalf, the activities of an industrial, commercial, public utility, transport, communication or other enterprise or organisation. Their functions include: formulating and determining, within the powers delegated to them by a board of directors or similar governing body, or by official decree, the general policy and programme of the enterprise or organisation; determining the methods by which the programme should be carried out; controlling and co-ordinating the activities of the different functional sections of the enterprise or organisation; conducting or directing negotiations on behalf of the undertaking; approving senior staff appointments. General managers and working proprietors of certain types of establishments are specifically excluded from this unit group: see definition of minor group 2-1. Government administrators are classified in unit group 2-02.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=211&keywords_qt=lstrict"
+    },
+    {
+        "Number": "212",
+        "Name": "Production Managers",
+        "Description (tasks and duties)": "Workers in this unit group plan, organise, direct and control the activities of the production department of an undertaking. Their functions include: participating in formulating production policy; drawing up production programme of the undertaking according to policy decisions of general manager; estimating and ensuring provision of the labour, materials and equipment needed; controlling, through subordinates, the organisation of work and co-ordinating the activities of production department.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=212&keywords_qt=lstrict"
+    },
+    {
+        "Number": "213",
+        "Name": "Sales Managers",
+        "Description (tasks and duties)": "Workers in this unit group plan, organise, co-ordinate and direct businesses or local branches of businesses in wholesale or retail trade on behalf of the proprietors. Their functions include: planning and organising a business or a branch of a business in wholesale or retail trade; directing workers engaged in purchasing goods and selling them to retailers, industrial, commercial or other large consumers in a wholesale business; directing workers engaged in purchasing goods and selling them for personal or household consumption or use in a retail business; organising and controlling the work of purchasing, sales and other staff.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=213&keywords_qt=lstrict"
+    },
+    {
+        "Number": "214",
+        "Name": "Managers (Catering and Lodging Services)",
+        "Description (tasks and duties)": "Workers in this unit group plan, organise, co-ordinate and direct hotels, restaurants, guest houses, cafes, bars, caravan parks and similar establishments on behalf of the proprietors. Their functions include: planning, organising, directing and controlling the establishment and its departments; maintaining standards of cleanliness and service; arranging banqueting and other special functions.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=214&keywords_qt=lstrict"
+    },
+    {
+        "Number": "219",
+        "Name": "Managers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform managerial functions not elsewhere classified. Their functions include: planning, organising, directing and controlling a department (other than the production department) of an undertaking, establishment or organisation, within general policy laid down by directorate or governing body; participating in formulation of policy concerning a particular department; drawing up the programme of the department in accordance with policy decisions of general manager; co-operating with other departments of the organisation; negotiating with external organisations on questions affecting departmental policy; reporting to general manager or governing body on work of the department.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=219&keywords_qt=lstrict"
+    }
+]

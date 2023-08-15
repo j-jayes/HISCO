@@ -1,0 +1,62 @@
+[
+    {
+        "Number": "020",
+        "Name": "Engineers, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group may perform any (but not all) of the occupational activities listed in unit groups 0-22 to 0-29.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=020&keywords_qt=lstrict"
+    },
+    {
+        "Number": "021",
+        "Name": "Architects and Town Planners",
+        "Description (tasks and duties)": "Workers in this unit group design and supervise the construction of buildings; plan layout and co-ordinate development of urban areas; and plan, design and supervise aesthetic landscaping for parks, road development and other projects.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=021&keywords_qt=lstrict"
+    },
+    {
+        "Number": "022",
+        "Name": "Civil Engineers",
+        "Description (tasks and duties)": "Workers in this unit group carry out research and advise on civil engineering problems, design projects and structures such as bridges, dams, docks, roads, airports, railways, waste disposal systems, flood control systems and industrial and other large buildings, and plan, organise and supervise their construction, maintenance and repair.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=022&keywords_qt=lstrict"
+    },
+    {
+        "Number": "023",
+        "Name": "Electrical and Electronics Engineers",
+        "Description (tasks and duties)": "Workers in this unit group carry out research on electrical and electronics engineering problems, design and advise on electrical and electronic systems and equipment, plan and supervise development, construction, installation, operation, maintenance and repair of electrical and electronic equipment.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=023&keywords_qt=lstrict"
+    },
+    {
+        "Number": "024",
+        "Name": "Mechanical Engineers",
+        "Description (tasks and duties)": "Workers in this unit group carry out research on, design and advise on mechanically functioning plant and equipment, such as machine tools, engines, vehicles, heating, ventilating and refrigerating installations, and plant and equipment for the release, control and utilisation of nuclear energy, and plan and supervise their development, manufacture, construction, installation, operation, maintenance and repair.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=024&keywords_qt=lstrict"
+    },
+    {
+        "Number": "025",
+        "Name": "Chemical Engineers",
+        "Description (tasks and duties)": "Workers in this unit group carry out research, develop and advise on processes for producing on a commercial scale the chemical or physical transformation of substances, as in manufacture of chemicals, petroleum derivatives, metals, food products and synthetic materials, and design appropriate manufacturing plant and plan and supervise its construction, operation, maintenance and repair.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=025&keywords_qt=lstrict"
+    },
+    {
+        "Number": "026",
+        "Name": "Metallurgists",
+        "Description (tasks and duties)": "Workers in this unit group advise on metallurgical problems and develop and control processes for the extraction of metals from their ores, study the properties and engineering characteristics of metals and develop new alloys, and develop and supervise metal manufacturing processes for making finished metal products.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=026&keywords_qt=lstrict"
+    },
+    {
+        "Number": "027",
+        "Name": "Mining Engineers",
+        "Description (tasks and duties)": "Workers in this unit group carry out research on mining engineering problems, supervise prospecting for minerals such as coal, iron, copper, gold, platinum, silver, petroleum, gas, stone, clay, salt or gems, and plan, organise, supervise and advise on extraction of minerals from the earth and their preparation for distribution or processing. Workers who specialise in geological and geophysical surveys to locate mineral deposits are classified in unit group 0-13.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=027&keywords_qt=lstrict"
+    },
+    {
+        "Number": "028",
+        "Name": "Industrial Engineers",
+        "Description (tasks and duties)": "Workers in this unit group study, advise on and implement methods to promote the efficient, safe and economic utilisation of personnel, materials and equipment. Their functions include: studying and advising on the organisation and layout of, and methods employed in, production processes and commercial and administrative procedures; planning and conducting time and motion studies; developing work measurement methodology; advising on and initiating measures to prevent industrial accidents and diseases.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=028&keywords_qt=lstrict"
+    },
+    {
+        "Number": "029",
+        "Name": "Engineers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform engineering functions not performed by those classified elsewhere. Their functions include: studying, designing, developing, controlling and advising on processes and plant for the manufacture of bricks, pottery, glassware, foods or beverages; studying, advising on and supervising the application of engineering technology to agricultural problems; studying, planning and advising on the routing and control of road traffic to promote safety and minimise congestion.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=029&keywords_qt=lstrict"
+    }
+]

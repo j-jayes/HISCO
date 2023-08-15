@@ -1,0 +1,56 @@
+[
+    {
+        "Number": "621",
+        "Name": "General Farm Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform a variety of tasks in breeding and raising livestock, growing crops and maintaining farm structures and equipment, and assist generally on farms by performing simple farming tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=621&keywords_qt=lstrict"
+    },
+    {
+        "Number": "622",
+        "Name": "Field Crop and Vegetable Farm Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform tasks in planting, cultivating and harvesting field crops. Their functions include: performing a variety of tasks in the growing of vegetables, cereals, cotton, sugar cane or other field crops. Workers who grow vegetables by intensive cultivation techniques are classified in 6-27.20.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=622&keywords_qt=lstrict"
+    },
+    {
+        "Number": "623",
+        "Name": "Orchard, Vineyard and Related Tree and Shrub Crop Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform a variety of tasks in the cultivation of trees for their fruits, leaves or sap. Their functions include: propagating and cultivating fruit and nut trees, grape-vines, tea bushes, rubber trees, coffee bushes, cocoa trees and berry-bearing bushes; pruning and budding and grafting fruit trees; harvesting orchard, vineyard and related tree and shrub crops; tapping rubber trees.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=623&keywords_qt=lstrict"
+    },
+    {
+        "Number": "624",
+        "Name": "Livestock Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform tasks in breeding and raising livestock. Their functions include: performing a variety of tasks in breeding and raising cattle, sheep, pigs, fur-bearing animals, horses, goats, ostriches, reindeer or other species of livestock; breeding cattle by artificial insemination, shearing sheep, dehorning cattle, training and caring for racehorses and caring for zoo animals. Farm workers engaged in dairy farm work are classified in unit group 6-25 and those engaged in poultry farm work in unit group 6-26. Workers breeding and raising reptiles and insects are classified in unit group 6-29.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=624&keywords_qt=lstrict"
+    },
+    {
+        "Number": "625",
+        "Name": "Dairy Farm Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform tasks in dairy farming. Their functions include: performing a variety of tasks in the breeding, raising and milking of dairy animals; milking cows by machine or hand; straining and cooling the milk and transferring it to bulk containers. Workers on a dairy farm occupied mainly in pasteurising and bottling milk or in making butter, cheese, yoghurt or other dairy products are classified in unit group 7-75.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=625&keywords_qt=lstrict"
+    },
+    {
+        "Number": "626",
+        "Name": "Poultry Farm Workers",
+        "Description (tasks and duties)": "Workers in this unit group perform poultry farming tasks. Their functions include: performing a variety of tasks in the breeding, raising and tending of poultry or in the hatching of eggs for commercial purposes; trimming and searing beaks, claws and wings of chicks; collecting semen and artificially inseminating hens; determining the sex of chicks; minding flocks of turkeys or geese.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=626&keywords_qt=lstrict"
+    },
+    {
+        "Number": "627",
+        "Name": "Nursery Workers and Gardeners",
+        "Description (tasks and duties)": "Workers in this unit group perform nursery, gardening and market gardening tasks. Their functions include: performing a variety of tasks in the growing of vegetables by intensive cultivation techniques or in the propagation and cultivation of trees, shrubs, flowers and other plants, and the production of bulbs and seeds, for sale; cultivating flowers, trees, shrubs and other plants in parks or public or private gardens; growing tropical and other plants for exhibition or medicinal purposes; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=627&keywords_qt=lstrict"
+    },
+    {
+        "Number": "628",
+        "Name": "Farm Machinery Operators",
+        "Description (tasks and duties)": "Workers in this unit group operate farm machinery. Their functions include: operating and servicing one or more types of motorised farm machinery or equipment; operating and servicing one or more types of farm machinery or equipment drawn or powered by animals. Milker (machine) is classified in 6-25.20 and operators of bulldozers and excavating and trench-digging machines are classified in unit group 9-74.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=628&keywords_qt=lstrict"
+    },
+    {
+        "Number": "629",
+        "Name": "Agricultural and Animal Husbandry Workers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform tasks in agriculture and animal husbandry not classified elsewhere. Their functions include: performing a variety of tasks in the establishment and care of beehives and the extraction of honey or in the breeding and raising of silkworms, other insects and reptiles; tapping trees and gathering their saps; irrigating agricultural land; maintaining recreation and sports grounds; extracting peat.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=629&keywords_qt=lstrict"
+    }
+]

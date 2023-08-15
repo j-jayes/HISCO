@@ -1,0 +1,56 @@
+[
+    {
+        "Number": "750",
+        "Name": "Spinners, Weavers, Knitters, Dyers and Related Workers, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group may perform any (but not all) of the occupational activities described in minor group 7-5.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=750&keywords_qt=lstrict"
+    },
+    {
+        "Number": "751",
+        "Name": "Fibre Preparers",
+        "Description (tasks and duties)": "Workers in this unit group prepare wool, cotton, flax, jute, hemp and other natural textile fibres for spinning and winding. Their functions include: grading and classifying natural textile fibres; washing wool fibres; tending machines which mix textile fibres into uniform blends; operating machines which clean and fluff textile fibres, transform them into sliver, comb them into sliver for first drawing, combine slivers into sliver lap or sliver laps into ribbon lap,combine several slivers into one attenuated strand of regular quality and weight, or transform sliver into roving; performing related fibre-preparing tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=751&keywords_qt=lstrict"
+    },
+    {
+        "Number": "752",
+        "Name": "Spinners and Winders",
+        "Description (tasks and duties)": "Workers in this unit group spin, double, twist and wind thread and yarn from natural textile fibres. Their functions include: operating machines to spin thread and yarn from roving, wind two or more threads onto a bobbin, twist two or more strands of yarn or thread into a single heavier and stronger strand, or wind yarn or thread from one package to another; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=752&keywords_qt=lstrict"
+    },
+    {
+        "Number": "753",
+        "Name": "Weaving-and Knitting-Machine Setters and Pattern-Card Preparers",
+        "Description (tasks and duties)": "Workers in this unit group set and maintain weaving and knitting machines and prepare pattern cards for use on Jacquard looms. Their functions include: setting, maintaining and repairing various kinds of looms or knitting machines; reproducing designers' sketches in diagram form for guidance of Jacquard card cutters and weavers; operating machines which punch holes in Jacquard cards; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=753&keywords_qt=lstrict"
+    },
+    {
+        "Number": "754",
+        "Name": "Weavers and Related Workers",
+        "Description (tasks and duties)": "Workers in this unit group weave materials on hand or machine looms and perform related tasks. Their functions include: operating machines which wind yarn or thread onto weaver's beams; drawing warp threads into loom by hand or machine; weaving plain or figured cloth, tapestry, lace, carpet or other fabrics on hand or machine looms; examining and repairing fabrics; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=754&keywords_qt=lstrict"
+    },
+    {
+        "Number": "755",
+        "Name": "Knitters",
+        "Description (tasks and duties)": "Workers in this unit group knit garments, fabrics and other articles by hand or machine. Their functions include: operating one or more standard or specialised power-driven knitting machines to knit garments, fabrics, hosiery or other articles; knitting garments and other articles on handoperated machines or by hand; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=755&keywords_qt=lstrict"
+    },
+    {
+        "Number": "756",
+        "Name": "Bleachers, Dyers and Textile Product Finishers",
+        "Description (tasks and duties)": "Workers in this unit group bleach, dye and otherwise treat fibres, yarn, cloth and other textile products. Their functions include: treating textile products to make them lighter in colour or to give them specific colour; washing textile products to remove impurities, excess chemicals or natural gum; tending equipment to shrink textile materials or strengthen the weave by interlocking the fibres; waterproofing textiles with chemicals; treating silk to give it body and weight; operating machines which press, stretch, or impart lustre, waterproof or other type of finish to textiles; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=756&keywords_qt=lstrict"
+    },
+    {
+        "Number": "757",
+        "Name": "Rope Makers",
+        "Description (tasks and duties)": "Workers in this unit group make ropes from natural and artificial fibres. Their functions include: twisting or braiding together strands of fibre to make cords of varying thickness and length.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=757&keywords_qt=lstrict"
+    },
+    {
+        "Number": "759",
+        "Name": "Spinners, Weavers, Knitters, Dyers and Related Workers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform textile fabrics manufacturing tasks not classified elsewhere. Their functions include: making braid by hand or machine; crocheting by hand or machine; making nets by hand; mixing and purifying fur fibres by machine; operating machines which make hat forms from fur fibres or wool batts; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=759&keywords_qt=lstrict"
+    }
+]

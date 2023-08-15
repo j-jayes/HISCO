@@ -1,0 +1,44 @@
+[
+    {
+        "Number": "830",
+        "Name": "Blacksmiths, Toolmakers and Machine-Tool Operators, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this minor group hammer and forge metal by hand or machine, make tools, dies, patterns and other metal articles, using hand and machine tools, set up metal-cutting machine tools, operate machine tools set up for repetitive work, grind, or sharpen tools and perform various metalworking tasks not performed by workers classified elsewhere. Their specialisation is unknown.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=830&keywords_qt=lstrict"
+    },
+    {
+        "Number": "831",
+        "Name": "Blacksmiths, Hammersmiths and Forging-Press Operators",
+        "Description (tasks and duties)": "Workers in this minor group hammer and forge bars, rods, ingots and plates of iron, steel or other to make various kinds of tools, metal articles, pieces of equipment, agricultural implements and shoes for use on animals. Their functions include: heating metal in a forge-furnace and fabricating and repairing articles by cutting, hammering metal on an anvil, punching, shearing, joining and hardening or tempering; shaping heated metal into forgings on power hammer equipped with open dies; operating a closed-die drop hammer to forge metal articles; operating a power-press machine equipped with closed dies to forge metal articles; performing other tasks related to blacksmithing, hammersmithing and power-press forging.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=831&keywords_qt=lstrict"
+    },
+    {
+        "Number": "832",
+        "Name": "Toolmakers, Metal Pattern Makers and Metal Markers",
+        "Description (tasks and duties)": "Workers in this unit group make tools, dies, patterns and other metal articles, using hand and machine tools to work metal to fine tolerances. Their functions include: making, maintaining and repairing dies, jogs, gauges and fixtures, using hand tools and various kinds of machine tools; fitting and assembling parts to make and repair jigs, fixtures and gauges; making and repairing metal patterns for preparation of foundry moulds; laying out lines and reference points on metal stock to guide other workers who cut, turn, mill, grind or otherwise shape metal; performing other tasks related to the manufacture of tools, dies, and patterns. Workers making metal patterns by moulding and casting processes are classified in minor group 7-2.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=832&keywords_qt=lstrict"
+    },
+    {
+        "Number": "833",
+        "Name": "Machine-Tool Setter-Operators",
+        "Description (tasks and duties)": "Workers in this unit group set, or set and operate, metal-cutting machines working to fine tolerances. Their functions include: setting up one or more types of machine tools for operators to produce metal articles in standardised series; setting and operating a variety of machine tools; setting and operating a particular type of metalworking machine such as a lathe, milling, planing, boring, drilling, grinding or honing machine, including multi-purpose numerically controlled metalworking machines; performing similar tasks in machining of plastics and other metal substitutes.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=833&keywords_qt=lstrict"
+    },
+    {
+        "Number": "834",
+        "Name": "Machine-Tool Operators",
+        "Description (tasks and duties)": "Workers in this unit group operate automatic or semi-automatic metalworking machines which have been set up by machine setters to execute repetitive work. Their functions include: operating and tending a variety of machine tools; operating machine tools such as a lathe, milling, planing, boring, drilling, grinding, homing or metal-sawing machine; operating a special type of machine tool such as automatic transfer machine or programmed metalworking machine.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=834&keywords_qt=lstrict"
+    },
+    {
+        "Number": "835",
+        "Name": "Metal Grinders, Polishers and Tool Sharpeners",
+        "Description (tasks and duties)": "Workers in this unit group grind and polish metal surfaces and sharpen tools. Their functions include: operating stationary or portable buffing and polishing machines; sharpening cutting tools using mechanically operated grinding machine; sharpening cutting instruments, such as knives and surgical implements, by means of grinding wheel; repairing, adjusting and sharpening saw blades; sharpening metal teeth of cylinders in textile carding machines; performing various other metal grinding, polishing and tool sharpening tasks. Precision-grinding-machine setter-operator is classified in 8-33.70 and Precision-grinding-machine operator in 8-34.65.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=835&keywords_qt=lstrict"
+    },
+    {
+        "Number": "839",
+        "Name": "Blacksmiths, Toolmakers and Machine-Tool Operators Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform various metalworking tasks not performed by workers classified elsewhere. Their functions include: adjusting, repairing and assembling sports guns and other small arms and locks; operating a lathe to press sheet metal into a desired shape; forming cold or heated metal pieces using hand tools, chucks and forming blocks; operating cutting, punching and stamping presses, metal-bending machines, power shears and other machines or equipment to cut or form metal; making metal articles such as springs, cables, nails, bolts and steel needles.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=839&keywords_qt=lstrict"
+    }
+]

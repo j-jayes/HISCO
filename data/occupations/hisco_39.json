@@ -1,0 +1,38 @@
+[
+    {
+        "Number": "391",
+        "Name": "Stock Clerks",
+        "Description (tasks and duties)": "Workers in this unit group maintain records of goods and materials received, weighed, issued, dispatched or put into stock. Their functions include: controlling and arranging receipt and dispatch of goods and materials and keeping relevant records; maintaining stock records and periodically checking stock held against the records; maintaining records of stores, supplies and spare parts held in storeroom and of issues and replacements received; weighing goods and materials received, issued, produced or dispatched and keeping relevant records.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=391&keywords_qt=lstrict"
+    },
+    {
+        "Number": "392",
+        "Name": "Material and Production Planning Clerks",
+        "Description (tasks and duties)": "Workers in this unit group compute quantities of materials required at specified dates for the production programme of an undertaking or prepare production operations schedules. Their functions include: calculating the amounts of materials needed for production programmes and ensuring they are available when required; drawing up production schedules, taking account of demand and production capacity for various items of output, and keeping records of performance. Production planning engineers and technicians are classified in minor group 0-2/0-3.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=392&keywords_qt=lstrict"
+    },
+    {
+        "Number": "393",
+        "Name": "Correspondence and Reporting Clerks",
+        "Description (tasks and duties)": "Workers in this unit group perform a variety of clerical tasks, prepare correspondence, or deal with routine aspects of insurance transactions, legal matters or personnel records. Their functions include: performing various clerical tasks, depending on nature and size of office; drafting business letters and related documents; keeping records of establishments' personnel; carrying out specialised clerical tasks in connection with legal or insurance matters.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=393&keywords_qt=lstrict"
+    },
+    {
+        "Number": "394",
+        "Name": "Receptionists and Travel Agency Clerks",
+        "Description (tasks and duties)": "Workers in this unit group make appointments, receive clients, provide information in offices, hotels and other establishments, make travel arrangements and obtain hotel reservations for travellers. Their functions include: making appointments, receiving callers or customers, ascertaining their needs and directing them accordingly; allocating rooms and performing related duties in hotels and similar establishments; receiving patients in physicians' or dentists' offices; providing information about tours and other travel, arranging itineraries and accommodation and obtaining tickets for travellers.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=394&keywords_qt=lstrict"
+    },
+    {
+        "Number": "395",
+        "Name": "Library and Filing Clerks",
+        "Description (tasks and duties)": "Workers in this unit group maintain library records and perform filing services. Their functions include: keeping records relating to the acquisition, issue and return of publications in libraries; arranging and classifying correspondence, invoices, receipts and other documents and records.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=395&keywords_qt=lstrict"
+    },
+    {
+        "Number": "399",
+        "Name": "Clerks Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform miscellaneous clerical tasks not elsewhere classified. Their functions include: compiling statistical tables; converting information into codes and classifying information by code numbers for purposes of data-processing; verifying and correcting printer's proofs; operating office machines which reproduce documents by photographic, multigraph or similar means; performing other clerical tasks such as sorting forms and marking them with identification numbers, operating office machines to sort documents for filing or to collate sets of pages, or addressing circular letters by hand.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=399&keywords_qt=lstrict"
+    }
+]

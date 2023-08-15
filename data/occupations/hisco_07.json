@@ -1,0 +1,50 @@
+[
+    {
+        "Number": "071",
+        "Name": "Professional Nurses",
+        "Description (tasks and duties)": "Workers in this unit group provide professional nursing services. Their functions include: providing professional nursing care and advice in hospitals, clinics or other establishments providing medical care and treatment; providing professional nursing care and advice in private homes, schools, maternal and child health centres and nurseries; providing nursing services and health information for employees in workplaces; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=071&keywords_qt=lstrict"
+    },
+    {
+        "Number": "072",
+        "Name": "Nursing Personnel Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group provide simple nursing services for patients, generally under the supervision of a physician or professional nurse. They do not have the full training and theoretical knowledge of Professional nurses (0-71).",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=072&keywords_qt=lstrict"
+    },
+    {
+        "Number": "073",
+        "Name": "Professional Midwives",
+        "Description (tasks and duties)": "Workers in this unit group provide professional midwifery services in hospitals, clinics and elsewhere, including giving advice and assistance to women during childbirth, providing prenatal and postnatal nursing care of mother and infant, and participating in some aspects of health education.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=073&keywords_qt=lstrict"
+    },
+    {
+        "Number": "074",
+        "Name": "Midwifery Personnel Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group provide practical midwifery services as a rule in private homes, when there is no physician in attendance, in apparently normal obstetric cases. Their general functions are similar to those of Professional midwives (0-73) but they do not have the full training and theoretical knowledge of the latter.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=074&keywords_qt=lstrict"
+    },
+    {
+        "Number": "075",
+        "Name": "Optometrists and Opticians",
+        "Description (tasks and duties)": "Workers in this unit group prescribe and fit spectacles and perform related tasks. Their functions include: examining eyes and prescribing spectacles or treatment not involving the use of medicines, surgery or drugs, to conserve or improve vision; assisting customers in choice of spectacle frames, fitting prescribed lenses into frames, and fitting frames or contact lenses to customers.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=075&keywords_qt=lstrict"
+    },
+    {
+        "Number": "076",
+        "Name": "Physiotherapists and Occupational Therapists",
+        "Description (tasks and duties)": "Workers in this unit group provide special medical therapeutic services. Their functions include: treating sprains, healing fractures, paralysis and circulatory or nervous disorders by physical means, usually as prescribed by a physician; participating in planned medically oriented vocational, educational or recreational activities designed to rehabilitate physically or mentally disabled persons; massaging clients or patients to improve circulation, soothe or stimulate nerves, facilitate elimination of waste matter, stretch contracted tendons and produce other therapeutic effects.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=076&keywords_qt=lstrict"
+    },
+    {
+        "Number": "077",
+        "Name": "Medical X-Ray Technicians",
+        "Description (tasks and duties)": "Workers in this unit group operate X-ray equipment to make radiographs for medical diagnostic purposes or to give therapeutic treatment. Industrial radiographer is classified in 0-39.90.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=077&keywords_qt=lstrict"
+    },
+    {
+        "Number": "079",
+        "Name": "Medical, Dental, Veterinary and Related Workers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group provide professional medical, dental, veterinary and related services not performed by those classified elsewhere. Their functions include: diagnosing and treating, mainly by manipulative methods, disorders of bones, muscles, blood vessels and other tissues of the human body; relieving illness believed due to pressure upon nervous system at the spine by adjusting joints of the spine; promoting, and supervising implementation of, measures to restore or improve sanitary environmental conditions; writing specifications for and fitting artificial limbs, braces and other appliances for body deformities and disorders following prescription of physician; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=079&keywords_qt=lstrict"
+    }
+]

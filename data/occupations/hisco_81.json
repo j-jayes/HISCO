@@ -1,0 +1,26 @@
+[
+    {
+        "Number": "810",
+        "Name": "Woodworkers, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group perform woodworking tasks. Their specialisation is unknown.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=810&keywords_qt=lstrict"
+    },
+    {
+        "Number": "811",
+        "Name": "Cabinetmakers",
+        "Description (tasks and duties)": "Workers in this unit group perform the more skilled tasks in the manufacture and repair of wooden furniture, highly finished wooden fittings and similar objects.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=811&keywords_qt=lstrict"
+    },
+    {
+        "Number": "812",
+        "Name": "Woodworkers",
+        "Description (tasks and duties)": "Workers in this unit group cut and shape wood using hand tools, or by setting and operating woodworking machines, such as precision sawing, shaping, planing, turning and woodcarving machines. Their functions include: using woodworking hand tools; setting and adjusting various kinds of machines for operation by others; operating previously set machines for the standardised production of wooden articles; setting and operating one of several types of woodworking machines.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=812&keywords_qt=lstrict"
+    },
+    {
+        "Number": "819",
+        "Name": "Cabinetmakers and Related Woodworkers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform various woodworking tasks which are not performed by those classified elsewhere. Their functions include: making and repairing wooden vehicles or parts of wooden vehicles; making and repairing articles of wood, such as patterns, scale models and mock-ups, casks or smoking pipes; decorating furniture and fixtures by inlaying wood, applying veneer and carving designs; finishing surfaces of wooden articles of furniture; performing other woodworking tasks, such as marking wood to indicate where it must be cut or shaped; making wooden sports equipment or shoes; and bending wood in steam.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=819&keywords_qt=lstrict"
+    }
+]

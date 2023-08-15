@@ -1,0 +1,44 @@
+[
+    {
+        "Number": "220",
+        "Name": "Supervisors, Foremen and Inspectors, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group perfom supervisory functions as described in minor group 2-2. Their specialisation is unknown.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=220&keywords_qt=lstrict"
+    },
+    {
+        "Number": "221",
+        "Name": "Clerical supervisors",
+        "Description (tasks and duties)": "Workers in this unit group organise and supervise the daily activities in offices or special office departments of public or private establishments, including allocating work to be performed and controlling and examining work done. Workers who mainly perform managerial duties, such as planning and co-ordination of activities of office departments, are classified in minor group 2-1. Workers (such as head typist, chief bookkeeper, telephonist-in-charge, etc.) whose duties consist primarily in supervising a group of workers all of whom perform essentially the same type of clerical work (e.g. typing, bookkeeping, telephone operating, etc.) are classified in the same group as the workers supervised.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=221&keywords_qt=lstrict"
+    },
+    {
+        "Number": "222",
+        "Name": "Transport and Communications Supervisors",
+        "Description (tasks and duties)": "Workers in this unit group supervise, control and inspect land, air and waterborne transport service operations and telecommunications service operations.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=222&keywords_qt=lstrict"
+    },
+    {
+        "Number": "223",
+        "Name": "Sales Supervisors",
+        "Description (tasks and duties)": "Workers in this unit group supervise workers engaged in selling activities in wholesale and retail establishments or sales departments of other establishments. Their functions include: estimating the types, qualities and quantities of goods required by their customers and ensuring adequate stocks; supervising travelling sales and other sales staff; ensuring that credit and security procedures are observed.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=223&keywords_qt=lstrict"
+    },
+    {
+        "Number": "224",
+        "Name": "Housekeeping and Related Service Supervisors",
+        "Description (tasks and duties)": "Workers in this unit group organise, supervise and carry out housekeeping functions in hotels, clubs and other institutions, on board ships and in private households. Their functions include: organising and supervising the work of domestic staff in hotels, hospitals and similar establishments and in private households; controlling the purchase, storage and issue of supplies and supervising domestic service in hotels, restaurants, clubs and on board ships; supervising the serving of food and beverages and performing related services in private households; organising and supervising domestic staff and supervising general welfare and conduct of individuals in residential institutions; performing other organising and supervisory functions in connection with housekeeping work.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=224&keywords_qt=lstrict"
+    },
+    {
+        "Number": "225",
+        "Name": "Farm Supervisors",
+        "Description (tasks and duties)": "Workers in this unit group supervise the activities of farm workers. Their functions include: supervising and co-ordinating the activities of workers engaged in crop growing, livestock raising and related farm work.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=225&keywords_qt=lstrict"
+    },
+    {
+        "Number": "226",
+        "Name": "Production Supervisors and General Foremen",
+        "Description (tasks and duties)": "Workers in this group supervise, subject to the general directives of the Production manager (2-12.20) or general manager (2-11.10), within an industrial enterprise, the production activities of a distinct sector or unit concerned with extracting, processing, fabrication or construction work; they control and co-ordinate the activities of workers engaged in various occupations in this unit including the activities of subordinate supervisors - and foremen. Their functions include: interpreting specifications and job orders; determining sequence of operations and use of equipment; estimation manpower requirements; assigning duties to workers; analysing and resolving work problems; co-ordinating the work of the unit with that of other units in the plant; interpreting enterprise policies to workers; recommending or initiating personnel action.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=226&keywords_qt=lstrict"
+    }
+]

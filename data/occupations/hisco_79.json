@@ -1,0 +1,44 @@
+[
+    {
+        "Number": "791",
+        "Name": "Tailors and Dressmakers",
+        "Description (tasks and duties)": "Workers in this unit group make complete items of tailored clothing, dresses and other made-to-order garments (except fur garments), perform the more difficult tasks in the manufacture of ready-to-wear garments, and alter and repair garments. Their functions include: making overcoats, suits, skirts and similar tailored garments to clients' individual requirements; performing the more difficult hand-or machine-sewing tasks in the manufacture of ready-to-wear clothing; making complete dresses; making complete shirts, blouses, lingerie and corsetry; altering, renovating and repairing garments. Workers making fur garments are classified in unit group 7-92. Workers performing routine sewing operations, by hand or machine, in the manufacture of garments are classified in unit group 7-95.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=791&keywords_qt=lstrict"
+    },
+    {
+        "Number": "792",
+        "Name": "Fur Tailors and Related Workers",
+        "Description (tasks and duties)": "Workers in this unit group make, alter, repair and renovate garments and other articles of fur. Their functions include: making complete fur garments or performing the more difficult tasks in making, altering, renovating and repairing fur garments and other fur articles; preparing patterns and full-sized canvas models of garments and other articles; sorting, grading and matching furs prior to cutting and making them into garments or other articles; cutting fur according to pattern for making and repairing garments or other articles; stretching and trimming dressed furs to conform to pattern outline of garments or other articles; reclaiming furs or skins from old coats, gluing fabric to interior of fur coats and trimming blocked fur garments. Workers who sew fur articles are classified in unit group 7-95.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=792&keywords_qt=lstrict"
+    },
+    {
+        "Number": "793",
+        "Name": "Milliners and Hat Makers",
+        "Description (tasks and duties)": "Workers in this unit group make and finish hats. Their functions include: making women's hats out of various materials such as felt, silk, velvet and straw; operating a machine that stretches felt cones to form hat shapes; finishing and decorating hat forms or making various kinds of headgear for special purposes. Formers of fur-felt or wool-felt hoods are classified in unit group 7-59.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=793&keywords_qt=lstrict"
+    },
+    {
+        "Number": "794",
+        "Name": "Pattern Makers and Cutters",
+        "Description (tasks and duties)": "Worker in this unit group make patterns and mark and cut materials in the manufacture of garments, gloves and miscellaneous products of textile and kindred materials and leather. Their functions include: drawing and cutting out patterns for making suits, dresses, shirts, blouses, hats and caps and other garments; marking outlines of patterns on cloth, light leathers or similar materials to guide cutting; cutting material (other than leather) according to pattern outline, usually several layers at a time, for making up into garments and gloves; cutting leather into parts for making leather garments and gloves; performing pattern making, marking and cutting tasks in the manufacture of other products such as soft furnishings, canvas goods and umbrellas.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=794&keywords_qt=lstrict"
+    },
+    {
+        "Number": "795",
+        "Name": "Sewers and Embroiderers",
+        "Description (tasks and duties)": "Workers in this unit group sew and embroider garments, gloves and miscellaneous products of fur, textile and kindred materials. Their functions include: performing various hand-and machine-sewing tasks in making, altering and repairing articles of textile and kindred materials, except those of leather or fur; sewing leather parts by hand in the manufacture and repair of garments or gloves; performing one or more sewing tasks in the making, alteration, renovation and repair of garments and other articles of fur; operating a standard or specialised, single-or multiple-needle sewing machine; embroidering decorative designs on garment parts and other materials by machine; performing other sewing and embroidering tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=795&keywords_qt=lstrict"
+    },
+    {
+        "Number": "796",
+        "Name": "Upholsterers and Related Workers",
+        "Description (tasks and duties)": "Workers in this unit group upholster furniture, make mattresses, make and install interior decorations of textiles, leather and similar materials, and perform related tasks. Their functions include: installing, arranging and securing springs, padding and covering material to furniture frames; installing covering and cushioning for seats and other furnishings on vehicles, such as motor cars, railways coaches and aircraft; making mattresses by hand or machines; fitting and installing soft furnishings and interior decorations of textiles, leather and similar materials. Pattern makers and cutters are classified in unit group 7-94 and Sewers and embroiderers in 7-95.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=796&keywords_qt=lstrict"
+    },
+    {
+        "Number": "799",
+        "Name": "Tailors, Dressmakers, Sewers, Upholsterers and Related Workers Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform various tasks in the manufacture and repair of garments, soft furnishing and related products, not performed by those classified elsewhere. Their functions include: making sails, tents, awnings and similar articles by hand or machine; assembling and covering umbrellas; performing other tasks related to the foregoing.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=799&keywords_qt=lstrict"
+    }
+]

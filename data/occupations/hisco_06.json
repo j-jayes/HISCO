@@ -1,0 +1,56 @@
+[
+    {
+        "Number": "061",
+        "Name": "Medical Doctors",
+        "Description (tasks and duties)": "Workers in this unit group apply medical knowledge to the prevention, diagnosis and treatment of human illnesses. Their functions include: conducting medical examinations, making diagnoses, prescribing and giving treatment for diseases, disorders and injuries of the human body, and applying preventive medicine techniques; performing surgical operations in the treatment of injuries, diseases and disorders of the human body; implementing public health laws and regulations for safeguarding and promoting the health of a community; performing related tasks. Anatomists, Physiologists, Bacteriologists, Medical pathologists and Pharmacologists are classified in unit group 0-52, Dentists in 0-63 and Pharmacists in 0-67.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=061&keywords_qt=lstrict"
+    },
+    {
+        "Number": "062",
+        "Name": "Medical Assistants",
+        "Description (tasks and duties)": "Workers in this unit group perform, within a public health service or institution, limited diagnostic, preventive and curative medical tasks, mainly in connection with the common diseases of the region. They may work independently or under the general direction of a fully qualified physician. Their theoretical and practical training in medicine is less than that of fully qualified physicians (classified in 0-61). In some countries the functions of medical assistants are carried out solely by physicians.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=062&keywords_qt=lstrict"
+    },
+    {
+        "Number": "063",
+        "Name": "Dentists",
+        "Description (tasks and duties)": "Workers in this unit group apply medical knowledge to the prevention, diagnosis and treatment of human dental or oral disorders. Their functions include: performing diagnostic, preventive and curative services for dental or oral diseases and disorders; giving surgical, medical and other forms of treatment for particular types of dental and oral diseases and disorders; planning and directing public action to improve oral health and to control and improve standards of dental care and treatment of oral disorders.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=063&keywords_qt=lstrict"
+    },
+    {
+        "Number": "064",
+        "Name": "Dental Assistants",
+        "Description (tasks and duties)": "Workers in this unit group perform limited diagnostic, curative and preventive dental tasks within a public dental health service (e.g. for schoolchildren), or otherwise. Their theoretical and practical training in dentistry is less than that of Dentists (0-63).Dental prosthesis maker and repairer is classified in 8-42.50. Dental chair-side assistants (workers who help the dentist in his consulting room at the chairside by preparing and taking care of instruments and other dental equipment, preparing materials and looking after the welfare of patients) are classified in unit group 5-99.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=064&keywords_qt=lstrict"
+    },
+    {
+        "Number": "065",
+        "Name": "Veterinarians",
+        "Description (tasks and duties)": "Workers in this unit group diagnose and give or prescribe medical or surgical treatment of diseases, injuries or other medical conditions of animals, and assist in epidemiological, radiological and other surveillance of animal health. Their functions include: diagnosing diseases or injuries of animals; administering surgical or medical treatment; testing dairy and other herds and inoculating animals against disease; advising on care and breeding of animals; performing other functions requiring a scientific knowledge of veterinary medicine such as examining animals for soundness, veterinarian legal work, food hygiene, control of communicable animal diseases and comparative medicine. Veterinary pathologist is classified in 0-52.65.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=065&keywords_qt=lstrict"
+    },
+    {
+        "Number": "066",
+        "Name": "Veterinary Assistants",
+        "Description (tasks and duties)": "Workers in this unit group perform limited diagnostic, preventive and curative veterinary tasks to assist veterinarians, or independently. Their theoretical and practical training in veterinary medicine is less than that of Veterinarians (0-65).",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=066&keywords_qt=lstrict"
+    },
+    {
+        "Number": "067",
+        "Name": "Pharmacists",
+        "Description (tasks and duties)": "Workers in this unit group make and dispense medicaments and related preparations according to doctors' prescriptions or established formulae and perform related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=067&keywords_qt=lstrict"
+    },
+    {
+        "Number": "068",
+        "Name": "Pharmaceutical Assistants",
+        "Description (tasks and duties)": "Workers in this unit group assist pharmacists in the making and dispensing of medicaments in pharmacies, hospitals and dispensaries. Their theoretical and practical training in pharmacy is less than that of fully qualified Pharmacist (0-67.10).",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=068&keywords_qt=lstrict"
+    },
+    {
+        "Number": "069",
+        "Name": "Dietitians and Public Health Nutritionists",
+        "Description (tasks and duties)": "Workers in this unit group plan and supervise the preparation of diets for individuals or groups, supervise and evaluate nutrition elements of health programmes and assist in appraising the various factors related to nutrition and food problems in the community. Their functions include: planning and supervising the preparation of therapeutic or other diets for individuals or for groups in hospitals, institutions and other establishments and for workers in particular sectors; participating in programmes of nutrition education and in nutrition rehabilitation activities; planning and co-ordinating nutrition programmes and advising on nutrition aspects of community food problems and health programmes.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=069&keywords_qt=lstrict"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Number": "720",
+        "Name": "Metal Processors, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group carry out metal processing tasks as described in minor group 7-2. Their specialisation is unknown.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=720&keywords_qt=lstrict"
+    },
+    {
+        "Number": "721",
+        "Name": "Metal Smelting, Converting and Refining Furnacemen",
+        "Description (tasks and duties)": "Workers in this unit group operate metal smelting, converting and refining furnaces. Their functions include: operating blast furnaces to smelt ores for production of ferrous or non-ferrous metals; operating furnaces to convert or refine pigiron or scrap-metal to produce steel; operating furnaces to convert or refine non-ferrous metals; performing related tasks. Workers who operate furnaces to melt metal for casting or reheat metal for forging, pressing or rolling are classified in unit group 7-23.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=721&keywords_qt=lstrict"
+    },
+    {
+        "Number": "722",
+        "Name": "Metal Rolling-Mill Workers",
+        "Description (tasks and duties)": "Workers in this unit group operate rolling mills to roll metal. Their functions include: operating rolling mills to shape hot steel ingots into blooms, slabs, billets or sheet bars for further processing, or to shape heated semi-finished steel pieces into bars, angles, ties, rails, sheets or other finished forms; operating continuous mills in which hot steel slabs are passed through a series of rolls (stands) to produce finished plates or sheets in one continuous operation; operating rolling mills to reduce cold steel strip or sheet to required gauge and impart desired finish; operating rolling mills to reduce or form hot or cold non-ferrous metal into plate, sheets, foil, wire or rod of specified dimensions; operating rolls to form seamless tubes and pipes from billets which have been pierced longitudinally; manipulating controls of a rolling mill according to signals from roller; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=722&keywords_qt=lstrict"
+    },
+    {
+        "Number": "723",
+        "Name": "Metal Melters and Reheater",
+        "Description (tasks and duties)": "Workers in this unit group operate furnaces to melt or reheat metals. Their functions include: operating furnaces to melt ferrous and non-ferrous metals for casting; operating furnaces to reheat bars, plates and other stock metal forms prior to forging, powerpressing, rolling or other further processing; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=723&keywords_qt=lstrict"
+    },
+    {
+        "Number": "724",
+        "Name": "Metal Casters",
+        "Description (tasks and duties)": "Workers in this unit group pour metal into moulds and operate metal-casting machines. Their functions include: pouring molten metal into moulds to produce metal castings: operating centrifugal casting machines to cast cylindrical metal products; operating die-casting machines to make castings from non-ferrous metals; operating continuous casting machines to produce tubes and rods from non-ferrous metal; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=724&keywords_qt=lstrict"
+    },
+    {
+        "Number": "725",
+        "Name": "Metal Moulders and Coremakers",
+        "Description (tasks and duties)": "Workers in this unit group make sand moulds and cores for casting metal. Their functions include: making sand moulds by hand on a bench for small metal castings, or on the foundry floor or in a pit for large metal castings; making sand moulds for metal castings using auxiliary machines; making sand cores for use in metal moulds by hand or machine; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=725&keywords_qt=lstrict"
+    },
+    {
+        "Number": "726",
+        "Name": "Metal Annealers, Temperers and Case-Hardeners",
+        "Description (tasks and duties)": "Workers in this unit group alter the physical properties of metal objects by heating, cooling and chemical treatment. Their functions include: heating metal objects in a furnace and cooling them at a predetermined rate to relieve internal stresses, restore ductility and refine grain structure; hardening steel objects throughout by heating them in a furnace and quenching them; imparting a hard skin and tough, ductile core to steel objects by treating them with chemicals, heating and quenching or cooling them; reheating hardened steel objects in a furnace and quenching them to relieve stresses caused in performing related tasks. Metal bluer is classified in 7-29.20.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=726&keywords_qt=lstrict"
+    },
+    {
+        "Number": "727",
+        "Name": "Metal Drawers and Extruders",
+        "Description (tasks and duties)": "Workers in this unit group draw and extrude metals through dies to make wire, pipes, tubes and similar products. Their functions include: making wire of specified diameter by hand on a draw bench or by setting and operating a wire-drawing machine; setting and operating a machine to draw seamless metal tubing; setting and operating a hydraulic press to extrude metal rods, bars and seamless tubing; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=727&keywords_qt=lstrict"
+    },
+    {
+        "Number": "728",
+        "Name": "Metal Platers and Coaters",
+        "Description (tasks and duties)": "Workers in this unit group operate equipment to plate and coat metal products. Their functions include: setting and controlling electroplating equipment; operating hot-dip equipment to coat iron and steel products; coating wire with non-ferrous metal by automatic machine; spraying molten metal on metal products to provide a protective or decorative coating or to build up worn or damaged surfaces; performing related tasks.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=728&keywords_qt=lstrict"
+    },
+    {
+        "Number": "729",
+        "Name": "Metal Processors Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform metal processing tasks not classified elsewhere. Their functions include: imparting a blue, rust-resistant, decorative finish to metal articles by treating them with chemicals and heating them; semi-finishing the surfaces of cast metal articles by hand and machine; operating equipment to clean metal articles in preparation for electroplating, galvanising, enamelling or similar finishing processes.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=729&keywords_qt=lstrict"
+    }
+]

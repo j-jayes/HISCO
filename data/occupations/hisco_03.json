@@ -1,0 +1,62 @@
+[
+    {
+        "Number": "030",
+        "Name": "Surveyors",
+        "Description (tasks and duties)": "Workers in this unit group survey the earth's surface, natural topography and man-made structures, and underground areas, and prepare maps and charts. Their functions include: surveying land surfaces to determine boundaries and exact locations, delineate topographic features and otherwise measure land areas for such purposes as mapmaking and construction work; surveying mines and delineating surface and underground features to control direction and extent of mining; surveying sea, river and lake beds for such purposes as chart making, determining navigable channels and planning construction of marine structures; analysing aerial photographs to prepare or revise topographic maps and charts. Quantity surveyor is classified in 0-33.20 and valuation surveyor in unit group 4-43.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=030&keywords_qt=lstrict"
+    },
+    {
+        "Number": "031",
+        "Name": "Draughtsmen",
+        "Description (tasks and duties)": "Workers in this unit group prepare technical drawings and maps and copy drawings and paintings onto printing plates. Their functions include: preparing working drawings from designers' sketches and specifications for such purposes as manufacture and installation of machinery and equipment or for construction of buildings, bridges, dams, roads and other civil engineering projects; preparing topographical, political, economic, nautical and other maps and charts from survey and other data; drawing technical illustrations for reference works, brochures and technical manuals dealing with assembly, installation, operation, maintenance and repair of machinery and other equipment; copying drawings and paintings onto stone or metal plates for printing.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=031&keywords_qt=lstrict"
+    },
+    {
+        "Number": "032",
+        "Name": "Technicians, Specialisation Unknown",
+        "Description (tasks and duties)": "Workers in this unit group may perform any (but not all) of the occupational activities described in unit groups 0-14 and 0-33 to 0-39.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=032&keywords_qt=lstrict"
+    },
+    {
+        "Number": "033",
+        "Name": "Civil Engineering Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under the direction and supervision of civil engineers, building architects or surveyors, contributory to planning and execution of building and civil engineering projects, including new construction, repair and maintenance. Their functions include: estimating quantities and costs of building materials and labour required for execution of construction projects and preparing bills of quantities; performing technical tasks contributory to execution of surveys and preparation of survey reports; representing building architects on construction sites to ensure compliance with design specifications and maintenance of desired standards of materials and workmanship; applying knowledge of building and civil engineering theory and practices to recognise and solve problems arising in the course of their work. Civil engineering draughtsman is classified in 0-31.40 and Architectural draughtsman in 0-31.50.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=033&keywords_qt=lstrict"
+    },
+    {
+        "Number": "034",
+        "Name": "Electrical and Electronics Engineering Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under the direction and supervision of electrical or electronics engineers, contributory to the design, development, construction, installation, maintenance and repair of electrical and electronic systems and equipment. Their functions include: assisting in research and development work concerning electrical and electronic systems and equipment; preparing detailed estimates of quantities and costs of materials and labour required for manufacture and installation; assisting with technical supervision of manufacture, installation and utilisation, maintenance and repair of electrical and electronic systems and equipment; applying knowledge of electrical and electronics engineering theory and practices to recognise and solve problems arising in course of their work. Electrical fitters, electronics fitters, radio and television repairmen and related workers are classified in minor group 8-5.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=034&keywords_qt=lstrict"
+    },
+    {
+        "Number": "035",
+        "Name": "Mechanical Engineering Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under the direction and supervision of mechanical engineers, contributory to the design, development, manufacture, construction, installation, maintenance and repair of mechanically functioning plant and equipment. Their functions include: assisting in research and development work concerning machine tools, engines, vehicles, aeroplanes, heating, ventilating and refrigerating installations and other mechanically functioning plant and equipment; preparing detailed estimates of quantities and costs of materials and labour required for manufacture and installation; assisting with technical supervision of manufacture, installation, maintenance and repair of mechanical plant and equipment; applying knowledge of mechanical engineering theory and practices to recognise and solve problems arising in the course of their work.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=035&keywords_qt=lstrict"
+    },
+    {
+        "Number": "036",
+        "Name": "Chemical Engineering Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under the direction and supervision of chemical engineers, contributory to development of industrial chemical processes and design, construction, operation, maintenance and repair of chemical plant. Their functions include: assisting in research to develop new or improved processes and manufacturing plant for the chemical or physical transformation of substances on a commercial scale; preparing detailed estimates of quantities and costs of materials and labour required for manufacture and installation of plant; assisting with technical supervision of construction, installation, operation, maintenance and repair of plant; applying knowledge of chemical engineering theory and practices to recognise and solve problems arising in the course of their work.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=036&keywords_qt=lstrict"
+    },
+    {
+        "Number": "037",
+        "Name": "Metallurgical Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under direction and supervision of metallurgists, contributory to development and control of processes for extraction of metals from their ores and metal refining, research into properties of metals, development of new alloys, and technical supervision of metal and alloy manufacture and processing.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=037&keywords_qt=lstrict"
+    },
+    {
+        "Number": "038",
+        "Name": "Mining Technicians",
+        "Description (tasks and duties)": "Workers in this unit group perform technical tasks, normally under the direction and supervision of mining engineers, contributory to the extraction from the earth and preparation for distribution or processing of minerals such as coal, iron, copper, gold, platinum, silver, petroleum, gas, stone, clay, salt and diamonds. Their functions include: assisting in geological and topographical surveys; assisting in planning and supervising construction of mine shafts, tunnels and surface developments; assisting in technical supervision of mining and quarrying operations, preparation of minerals for distribution, well-drilling operations and initial treatment of crude oil and natural gas; assisting in research to develop improved methods of extraction; applying knowledge of theory and practices of mining and well-drilling to recognise and solve problems arising in the course of their work.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=038&keywords_qt=lstrict"
+    },
+    {
+        "Number": "039",
+        "Name": "Engineering Technicians Not Elsewhere Classified",
+        "Description (tasks and duties)": "Workers in this unit group perform technical functions in engineering, normally under the direction and supervision of engineers, and are not elsewhere classified. Their functions include: assisting industrial engineers in connection with production engineering matters, time and motion studies, or safety measures and procedures; assisting manufacturing technologists specialising in ceramics and glass, food and drink, textiles, paper, leather or wood products, in connection with the development of plant and processes and technical supervision of processing operations; assisting agricultural engineers; assisting traffic planners; performing other technical tasks in engineering.",
+        "Link": "https://historyofwork.iisg.nl/list_micro.php?keywords=039&keywords_qt=lstrict"
+    }
+]

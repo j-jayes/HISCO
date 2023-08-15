@@ -1,0 +1,26 @@
+[
+    {
+        "Number": "011",
+        "Name": "Chemists",
+        "Link": "list_micro.php?keywords=011&keywords_qt=lstrict",
+        "Description": "Workers in this unit group conduct research in such fields as organic, inorganic, physical and analytical chemistry. Their functions include: conducting pure research to increase scientific knowledge in the field of chemistry; conducting applied research and development work to test, develop and improve materials, products and industrial processes; performing chemical tests and analyses for process and quality control; developing analytical methodology and techniques. Metallurgists are classified in unit group 0-26, Biochemists and Pharmacologists in 0-52 and Pharmacists in 0-67."
+    },
+    {
+        "Number": "012",
+        "Name": "Physicists",
+        "Link": "list_micro.php?keywords=012&keywords_qt=lstrict",
+        "Description": "Workers in this unit group conduct research into physical phenomena in such fields as mechanics, heat, light, sound, electricity and magnetism, electronics and nuclear physics. Their functions include: conducting pure research to increase scientific knowledge in the field of physics; conducting applied research to develop or improve industrial, medical, military and other practical applications of the laws and theories of physics."
+    },
+    {
+        "Number": "013",
+        "Name": "Physical Scientists Not Elsewhere Classified",
+        "Link": "list_micro.php?keywords=013&keywords_qt=lstrict",
+        "Description": "Workers in this unit group conduct research and develop practical applications in areas of the physical sciences not covered by those classified elsewhere. Their functions include: conducting research into the physical nature of the earth, the nature and history of the earth's crust and the physical nature and properties of the atmosphere and the forces affecting it, and developing practical applications in such fields as radio communications, water conservation, mineral exploitation, civil engineering and weather forecasting; observing and interpreting celestial phenomena and developing practical applications in such fields as navigation and space exploration; examining, analysing and classifying minerals and advising on the likely commercial yield of mineral deposits containing gems and precious stones."
+    },
+    {
+        "Number": "014",
+        "Name": "Physical Science Technicians",
+        "Link": "list_micro.php?keywords=014&keywords_qt=lstrict",
+        "Description": "Workers in this unit group perform auxiliary technical tasks, normally under the direction and supervision of physical scientists, in connection with research in the physical sciences and the development of industrial, medical, military and other practical applications. Their functions include: preparing materials and equipment for experiments, tests and analyses; assisting with or - under supervision - performing experiments, tests and analyses in such fields as physics, chemistry, geology, geophysics, meteorology and astronomy; applying knowledge of scientific principles to suggest solutions to problems encountered; taking records, making calculations, preparing charts and graphs and writing reports."
+    }
+]
