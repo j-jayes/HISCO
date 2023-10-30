@@ -1,0 +1,84 @@
+---
+title: "HISCO processor"
+format: html
+author: Jonathan Jayes
+---
+
+## Purpose
+
+Code to process the HISCO data into major groups
+
+## Process
+
+### Read in your data
+
+Your data should have a column called hisco
+
+```{r}
+library(tidyverse)
+
+# put your path in here
+df <- read_csv("data.csv")
+
+# for now we will use the sample data
+sample_data <- data.frame(hisco = c("1234", "51234", "9123", "50123", "12345"))
+# comment out the line below when you are using your own data
+df <- sample_data
+```
+
+### Creating the major group from hisco
+
+```{r}
+df <- df %>%
+    # Make hisco a string variable if it is not one
+    mutate(hisco = as.character(hisco),
+    # Prepend a zero on the front if it is 4 digits (for professional workers)
+    hisco = ifelse(nchar(hisco) == 4, paste0("0", hisco), hisco),
+    # Create hisco_major_group based on first digit
+           hisco_major_group = ifelse(nchar(hisco) == 5, substr(hisco, 1, 1), NA_character_))
+
+```
+
+### Creating the labels
+
+```{r}
+
+# Create hisco_major_group_label based on classification
+hisco_label_mapping <- data.frame(
+    hisco_major_group = c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9"),
+    group_description = c(
+      "Professional, technical and related workers",
+      "Professional, technical and related workers",
+      "Administrative and managerial workers",
+      "Clerical and related workers",
+      "Sales Workers",
+      "Service workers",
+      "Agricultural, animal husbandry and forestry workers, fishermen and hunters",
+      "Production and related workers, transport equipment operators and labourers",
+      "Production and related workers, transport equipment operators and labourers",
+      "Production and related workers, transport equipment operators and labourers"
+    )
+  )
+
+
+df <- left_join(df, hisco_label_mapping, by = "hisco_major_group")
+
+  # Rename columns if needed
+df <- df %>%
+    rename(hisco_major_group_label = group_description)
+```
+
+
+### See the output
+
+```{r}
+df
+```
+
+
+### Save the output
+
+```{r}
+# uncomment this line and put your path in here
+# write_csv(df, "hisco_major_groups.csv")
+```
